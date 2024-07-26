@@ -29,8 +29,24 @@ dimwishlist:item=198854575&perks=2039302152,47981717
 dimwishlist:item=198854575&perks=2039302152,2387244414
 
 
+// Mykel's Reverence ()
+dimwishlist:item=231031173&perks=3418782618,831391274
+dimwishlist:item=231031173&perks=3418782618,4104185692
+dimwishlist:item=231031173&perks=691659142,831391274
+dimwishlist:item=231031173&perks=691659142,4104185692
+
+
 // Eyasluna ()
 dimwishlist:item=235827225&perks=1168162263,124408337
+
+
+// Psi Hermetic V ()
+dimwishlist:item=358788212&perks=1168162263,124408337
+
+
+// The Guiding Sight ()
+dimwishlist:item=417100299&perks=3523296417,831391274
+dimwishlist:item=417100299&perks=3523296417,11612903
 
 
 // Zaouli's Bane ()
@@ -76,6 +92,27 @@ dimwishlist:item=435821041&perks=957782887,2387244414
 dimwishlist:item=484515708&perks=3523296417,831391274
 
 
+// Rufus's Fury ()
+dimwishlist:item=484515708&perks=588594999,365154968
+dimwishlist:item=484515708&perks=1428297954,365154968
+dimwishlist:item=484515708&perks=3418782618,365154968
+dimwishlist:item=484515708&perks=1523832109,365154968
+
+
+// Bold Endings ()
+dimwishlist:item=496728945&perks=124408337,2610012052
+dimwishlist:item=496728945&perks=124408337,2109543898
+dimwishlist:item=496728945&perks=124408337,2848615171
+
+
+// Drang (Baroque) ()
+dimwishlist:item=502356570&perks=588594999,4082225868
+
+
+// Forbearance ()
+dimwishlist:item=568611921&perks=2010801679,2396489472
+
+
 // The Mountaintop (god-pve)
 //notes: tags:god-pve
 dimwishlist:item=568611922&perks=981914802,3492396210,3300816228,469285294
@@ -94,8 +131,29 @@ dimwishlist:item=568611923&perks=968510818,3078487919
 dimwishlist:item=568611923&perks=3751912585,3078487919
 
 
+// Forbearance ()
+dimwishlist:item=613334176&perks=2010801679,2396489472
+
+
 // Gnawing Hunger ()
 dimwishlist:item=821154603&perks=1820235745,3425386926
+
+
+// Abyss Defiant ()
+dimwishlist:item=833898322&perks=3017780555,4293542123
+
+
+// Abyss Defiant ()
+dimwishlist:item=833898322&perks=2387244414,365154968
+dimwishlist:item=833898322&perks=3017780555,365154968
+
+
+// Vengeful Whisper ()
+dimwishlist:item=839344841&perks=2801223209,201365942,2652708987
+
+
+// Vengeful Whisper ()
+dimwishlist:item=839344841&perks=201365942,831391274
 
 
 // Cold Comfort ()
@@ -127,6 +185,20 @@ dimwishlist:item=882778888&perks=588594999,2846385770
 dimwishlist:item=882778888&perks=706527188,957782887
 
 
+// The Recluse ()
+dimwishlist:item=1050806815&perks=776531651,2048641572
+
+
+// The Recluse ()
+dimwishlist:item=1050806815&perks=1820235745,2109543898
+dimwishlist:item=1050806815&perks=1820235745,2048641572
+dimwishlist:item=1050806815&perks=1820235745,4104185692
+
+
+// Timeworn Wayfarer ()
+dimwishlist:item=1058098236&perks=3017780555,4293542123
+
+
 // Oversoul Edict ()
 dimwishlist:item=1098171824&perks=3523296417,2173046394
 
@@ -142,6 +214,11 @@ dimwishlist:item=1168625549&perks=1631667848,2679249093
 dimwishlist:item=1168625549&perks=1631667848,2360754333
 
 
+// Lost Signal ()
+dimwishlist:item=1197771438&perks=3300816228,4049631843
+dimwishlist:item=1197771438&perks=3300816228,563069569
+
+
 // Maahes HC4 ()
 dimwishlist:item=1246793994&perks=247725512,2048641572
 dimwishlist:item=1246793994&perks=247725512,2848615171
@@ -152,15 +229,17 @@ dimwishlist:item=1246793994&perks=3108830275,2610012052
 
 
 // Imminence ()
-dimwishlist:item=1258168956&perks=3523296417,831391274
-dimwishlist:item=1258168956&perks=3523296417,3640170453
-
-
-// Imminence ()
 dimwishlist:item=1258168956&perks=1359896290,3824105627
 dimwishlist:item=1258168956&perks=1359896290,1015611457
 dimwishlist:item=1258168956&perks=1428297954,3824105627
 dimwishlist:item=1258168956&perks=1428297954,1015611457
+
+
+// Imminence ()
+dimwishlist:item=1258168956&perks=3523296417,831391274
+dimwishlist:item=1258168956&perks=3523296417,3640170453
+dimwishlist:item=1258168956&perks=691659142,831391274
+dimwishlist:item=1258168956&perks=691659142,3640170453
 
 
 // Claws of the Wolf ()
@@ -169,9 +248,26 @@ dimwishlist:item=1505862304&perks=460017080,3425386926
 dimwishlist:item=1505862304&perks=460017080,1015611457
 
 
+// Vulpecula ()
+dimwishlist:item=1622998472&perks=3700496672,3038247973
+
+
+// Vulpecula ()
+dimwishlist:item=1622998472&perks=1168162263,124408337
+
+
+// Ergo Sum ()
+dimwishlist:item=1681583613&perks=1261178282,519046634
+dimwishlist:item=1681583613&perks=1261178282,289811733
+
+
 // Crux Termination IV ()
 dimwishlist:item=1719687748&perks=1523832109,3194351027
 dimwishlist:item=1719687748&perks=2284787283,3194351027
+
+
+// Royal Executioner ()
+dimwishlist:item=1720503118&perks=968510818,1427256713
 
 
 // Non-Denouement ()
@@ -182,6 +278,11 @@ dimwishlist:item=1770490683&perks=201365942,2173046394
 // Non-Denouement ()
 dimwishlist:item=1770490683&perks=1866048759,3414324643
 dimwishlist:item=1770490683&perks=201365942,3414324643
+
+
+// No Hesitation ()
+dimwishlist:item=1801007332&perks=1820235745,4293542123
+dimwishlist:item=1801007332&perks=2980589453,4293542123
 
 
 // The Summoner ()
@@ -262,12 +363,32 @@ dimwishlist:item=1973107014&perks=3017780555,4293542123
 
 
 // Igneous Hammer ()
-dimwishlist:item=1973107014&perks=3619207468,4293542123
-dimwishlist:item=1973107014&perks=2846385770,4293542123
+dimwishlist:item=1973107014&perks=3619207468,555281244
+
+
+// Breakneck ()
+dimwishlist:item=2026755633&perks=1820235745,3891536761
+dimwishlist:item=2026755633&perks=1820235745,95528736
 
 
 // Round Robin ()
 dimwishlist:item=2034215657&perks=1820235745,831391274
+
+
+// Round Robin ()
+dimwishlist:item=2034215657&perks=3619207468,1015611457
+
+
+// Pre Astyanax IV (Adept) ()
+dimwishlist:item=2063217087&perks=2801223209,201365942,2652708987
+
+
+// Ammit AR2 ()
+dimwishlist:item=2119346509&perks=2010801679,4293542123
+
+
+// IKELOS_SMG_v1.0.3 ()
+dimwishlist:item=2149683300&perks=1140096971,2779035018,2173046394
 
 
 // Fatebringer ()
@@ -282,6 +403,10 @@ dimwishlist:item=2194955522&perks=1195158366,4293542123
 dimwishlist:item=2194955522&perks=2869569095,557221067
 dimwishlist:item=2194955522&perks=2869569095,3425386926
 dimwishlist:item=2194955522&perks=2869569095,4293542123
+
+
+// Aberrant Action ()
+dimwishlist:item=2198166292&perks=3017780555,4293542123
 
 
 // IKELOS_SR_v1.0.3 ()
@@ -301,6 +426,10 @@ dimwishlist:item=2302346155&perks=588594999,2213355989
 dimwishlist:item=2306182339&perks=3300816228,1546637391
 
 
+// Sightline Survey ()
+dimwishlist:item=2350330520&perks=3828510309,2173046394
+
+
 // Blast Furnace (pve)
 //notes: tags:pve
 dimwishlist:item=2372514508&perks=3891536761,4049631843
@@ -311,12 +440,22 @@ dimwishlist:item=2372514509&perks=3619207468,460017080
 dimwishlist:item=2372514509&perks=3619207468,1015611457
 
 
+// Elsie's Rifle ()
+dimwishlist:item=2372514509&perks=3418782618,2048641572
+dimwishlist:item=2372514509&perks=3418782618,4104185692
+
+
 // Cartesian Coordinate ()
 dimwishlist:item=2481881293&perks=1556840489,1546637391
 
 
 // CALUS Mini-Tool ()
 dimwishlist:item=2490988246&perks=3108830275,4293542123
+
+
+// Sorrow's Verse ()
+dimwishlist:item=2496875173&perks=1820235745,3425386926
+dimwishlist:item=2496875173&perks=1168162263,3425386926
 
 
 // Unending Tempest ()
@@ -336,6 +475,10 @@ dimwishlist:item=2510526114&perks=1820235745,124408337
 dimwishlist:item=2510526114&perks=3523296417,124408337
 
 
+// Scatter Signal ()
+dimwishlist:item=2558925366&perks=3643424744,2594592626
+
+
 // Scintillation ()
 dimwishlist:item=2591257541&perks=3418782618,1771339417
 
@@ -350,6 +493,12 @@ dimwishlist:item=2591257541&perks=3418782618,1771339417
 dimwishlist:item=2591257541&perks=3418782618,3078487919
 dimwishlist:item=2591257541&perks=968510818,1771339417
 dimwishlist:item=2591257541&perks=968510818,3078487919
+
+
+// BxR-55 Battler ()
+dimwishlist:item=2708806099&perks=1168162263,4293542123
+dimwishlist:item=2708806099&perks=3523296417,4293542123
+dimwishlist:item=2708806099&perks=691659142,4293542123
 
 
 // Riptide ()
@@ -379,6 +528,10 @@ dimwishlist:item=2826850739&perks=2387244414,365154968
 dimwishlist:item=2826850739&perks=2387244414,3891536761
 
 
+// Syncopation-53 ()
+dimwishlist:item=2856514843&perks=1168162263,124408337
+
+
 // The Supremacy ()
 dimwishlist:item=2884596447&perks=3418782618,3891536761
 dimwishlist:item=2884596447&perks=3418782618,1354429876
@@ -390,8 +543,34 @@ dimwishlist:item=2932922810&perks=201365942,4293542123
 dimwishlist:item=2932922810&perks=201365942,2652708987
 
 
+// Judgment ()
+dimwishlist:item=2969415423&perks=124408337,11612903
+dimwishlist:item=2969415423&perks=124408337,2458213969
+
+
+// Succession ()
+dimwishlist:item=2990047042&perks=2866798147,957782887
+dimwishlist:item=2990047042&perks=588594999,957782887
+
+
+// Beloved ()
+dimwishlist:item=3107853529&perks=957782887,588594999
+
+
+// Swordbreaker ()
+dimwishlist:item=3163900678&perks=691659142,2679249093
+
+
+// Swordbreaker ()
+dimwishlist:item=3163900678&perks=3523296417,831391274
+
+
 // Warden's Law (Adept) ()
 dimwishlist:item=3250744600&perks=1354429876,1546637391
+
+
+// Indebted Kindness ()
+dimwishlist:item=3381450498&perks=1556840489,2173046394
 
 
 // Tyranny of Heaven ()
@@ -457,6 +636,17 @@ dimwishlist:item=3615421669&perks=968510818,1771339417
 dimwishlist:item=3615421669&perks=124408337,2978966579
 
 
+// The Riposte ()
+dimwishlist:item=3754408118&perks=2387244414,365154968
+dimwishlist:item=3754408118&perks=2387244414,1015611457
+dimwishlist:item=3754408118&perks=3828510309,365154968
+dimwishlist:item=3754408118&perks=3828510309,1015611457
+
+
+// The Riposte ()
+dimwishlist:item=3754408118&perks=776531651,2048641572
+
+
 // The Call ()
 dimwishlist:item=3947966653&perks=1556840489,2610012052
 
@@ -464,6 +654,13 @@ dimwishlist:item=3947966653&perks=1556840489,2610012052
 // Heliocentric QSc ()
 dimwishlist:item=3998080529&perks=3017780555,4293542123
 dimwishlist:item=3998080529&perks=3017780555,1015611457
+
+
+// Heliocentric QSc ()
+dimwishlist:item=3998080529&perks=3017780555,555281244
+dimwishlist:item=3998080529&perks=3017780555,1015611457
+dimwishlist:item=3998080529&perks=588594999,555281244
+dimwishlist:item=3998080529&perks=588594999,1015611457
 
 
 // A Sudden Death ()
@@ -484,6 +681,11 @@ dimwishlist:item=4152016199&perks=2846385770,4104185692
 
 // Better Devils ()
 dimwishlist:item=4152016199&perks=2272927194,2387244414
+
+
+// Appetence ()
+dimwishlist:item=4153087276&perks=3523296417,124408337
+dimwishlist:item=4153087276&perks=3643424744,124408337
 
 
 // Faith-Keeper ()
