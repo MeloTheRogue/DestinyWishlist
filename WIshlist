@@ -242,6 +242,18 @@ dimwishlist:item=1258168956&perks=691659142,831391274
 dimwishlist:item=1258168956&perks=691659142,3640170453
 
 
+// Perfect Paradox ()
+dimwishlist:item=1298672084&perks=2869569095,4082225868
+dimwishlist:item=1298672084&perks=2869569095,2679249093
+dimwishlist:item=1298672084&perks=2869569095,2360754333
+dimwishlist:item=1298672084&perks=691659142,4082225868
+dimwishlist:item=1298672084&perks=691659142,2679249093
+dimwishlist:item=1298672084&perks=691659142,2360754333
+dimwishlist:item=1298672084&perks=1126264488,4082225868
+dimwishlist:item=1298672084&perks=1126264488,2679249093
+dimwishlist:item=1298672084&perks=1126264488,2360754333
+
+
 // Claws of the Wolf ()
 dimwishlist:item=1505862304&perks=460017080,2387244414
 dimwishlist:item=1505862304&perks=460017080,3425386926
@@ -477,6 +489,11 @@ dimwishlist:item=2510526114&perks=3523296417,124408337
 
 // Scatter Signal ()
 dimwishlist:item=2558925366&perks=3643424744,2594592626
+
+
+// Martyr's Retribution ()
+dimwishlist:item=2584830733&perks=3017780555,4293542123
+dimwishlist:item=2584830733&perks=3300816228,4293542123
 
 
 // Scintillation ()
@@ -733,6 +750,9 @@ dimwishlist:item=4248569242&perks=3300816228,469285294
 
 // Heritage ()
 dimwishlist:item=4248569242&perks=3161816588,957782887
+
+
+
 
 //  _______  _        _______  _______  _______   __________________ _______  _______  _______ 
 // (  ____ \( \      (  ___  )(  ____ \(  ____ \  \__   __/\__   __/(  ____ \(       )(  ____ \
